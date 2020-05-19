@@ -1,0 +1,22 @@
+{
+  "name": "backkk",
+  "version": "1.0.0",
+  "description": "BAckend for FYP",
+  "main": "app.js",
+  "scripts": {
+    "test": "idk"
+  },
+  "author": "Abdullah Ibrahim",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.4.0",
+    "mongoose": "^5.9.14",
+    "mongoose-unique-validator": "^2.0.3",
+    "uuid": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
